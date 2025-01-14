@@ -1,4 +1,4 @@
-Trying some crazy shit
+Just playing arround
 
 ## Programming Languages
 [![prog-lang](https://skillicons.dev/icons?i=javascript,typescript,python)](https://skillicons.dev)
